@@ -12,7 +12,7 @@ public:
         int one=0;
         for(int i=0; i<nums.size(); i++){
             one=one^nums[i];
-        }https://leetcode.com/problems/single-number/
+        }
         return one;
     }
 };
