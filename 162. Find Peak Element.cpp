@@ -1,7 +1,6 @@
 // time conplexity: O(log n)
 // space complexity: O(1)
 
-
 #include<iostream>
 #include<vector>
 using namespace std;
