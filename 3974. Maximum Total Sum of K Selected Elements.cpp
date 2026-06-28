@@ -20,7 +20,6 @@ public:
     }
 };
 
-
   int main(){
     Solution obj;
     int n,k,mul;
