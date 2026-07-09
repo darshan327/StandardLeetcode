@@ -11,7 +11,7 @@ public:
              profit=max(profit,prices[i]-mi);
              mi=min(mi,prices[i]);
         }
-        return profit;
+       return profit;
     }
 };
 
