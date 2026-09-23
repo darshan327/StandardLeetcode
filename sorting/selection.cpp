@@ -13,7 +13,7 @@ using namespace std;
                    min=j;
                }
            }
-           swap(nums[i],nums[min]);
+               swap(nums[i],nums[min]);
         }
       }
   };
